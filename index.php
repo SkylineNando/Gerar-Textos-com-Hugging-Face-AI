@@ -1,6 +1,6 @@
 <?php
 // Seu token da Hugging Face
-$apiKey = "your key";
+$apiKey = "hf_seu_token_aqui";
 
 // Dados do modelo e do texto
 $model = "gpt2"; // Nome correto do modelo
